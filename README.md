@@ -5,6 +5,6 @@
   
   <sub>[![Hits](https://hits.sh/github.com/hiopes.svg?label=horai&extraCount=0&color=3C3422&labelColor=3C3422&logo=bat)](https://hits.sh/github.com/hiopes/)</sub></div>
 
-  <div align="center">$$\{#3C3422}{/text}{testinh}}$$
+  <div align="center">$${\color{red}test \space ING!}$$
 
 
