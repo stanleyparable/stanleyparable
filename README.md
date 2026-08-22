@@ -1,5 +1,10 @@
-<div align="center"><img src="https://static.wikia.nocookie.net/mlpmuffinscreepypasta/images/9/98/4th_wall_Pinkie_Pie.png/revision/latest?cb=20231214215244" width="200" length="240"></div>
 
-<div align="center">
+<div align="center"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ne7Y3tbeMfCD2xD1dJjeUg.jpeg" width="350"></div>
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cry5fzinljoojtwvpqxmocos3u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)![](https://komarev.com/ghpvc/?username=hoursofcooleststuff4evr&color=ff4782&label=muffins) </div>
+<div align="center"><br>
+  
+  <sub>[![Hits](https://hits.sh/github.com/hiopes.svg?label=horai&extraCount=0&color=3C3422&labelColor=3C3422&logo=bat)](https://hits.sh/github.com/hiopes/)</sub></div>
+
+  <div align="center">$$\{#3C3422}{/text}{testinh}}$$
+
+
