@@ -15,6 +15,7 @@
 <div><details>
 <summary> 
 情報</summary>
-  @gemapradana is my friend
+ 
+  [@gemapradana](https://github.com/gemapradana) is my friend
 </details></div>
 
